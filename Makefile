@@ -19,7 +19,7 @@ update:
 	@git pull
 
 run:
-	@printf "Updated Spambot-v2\nMenjalankan Script Tunggu\n"
+	@printf "Updated TikFoll\nMenjalankan Script Tunggu\n"
 	@python3 apps.py
 
 reset:
